@@ -1,0 +1,15 @@
+com\jooq\model\tables\pojos\Book.class
+com\jooq\model\tables\Book.class
+com\jooq\model\tables\records\AuthorRecord.class
+com\jooq\model\tables\Author.class
+com\jooq\model\DefaultCatalog.class
+com\jooq\model\Library.class
+com\jooq\model\Keys$UniqueKeys0.class
+com\jooq\model\tables\records\BookRecord.class
+com\jooq\model\Keys$Identities0.class
+com\jooq\model\Tables.class
+com\jooq\model\Keys.class
+com\jooq\model\Keys$ForeignKeys0.class
+com\jooq\model\tables\daos\BookDao.class
+com\jooq\model\tables\pojos\Author.class
+com\jooq\model\tables\daos\AuthorDao.class
